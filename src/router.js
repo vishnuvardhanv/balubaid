@@ -5,6 +5,7 @@ import About from '@/views/about.vue'
 import BusinessSector from '@/views/business-sector.vue'
 import Careers from '@/views/careers.vue'
 import ContactUs from '@/views/contact-us.vue'
+import NewsEvents from '@/views/news-events.vue'
 
 Vue.use(Router)
 
@@ -36,6 +37,10 @@ export default new Router({
       path: '/contact-us',
       name: 'contactUs',
       component: ContactUs
+    }, {
+      path: '/news-events',
+      name: 'newsEvents',
+      component: NewsEvents
     }
   ]
 })

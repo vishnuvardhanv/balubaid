@@ -1,7 +1,9 @@
 <template>
-  <div class="container-fluid">
+  <div>
     <AppHeader />
+    <div class="parent-section">
       <router-view/>
+    </div>
     <AppFooter />
   </div> 
 </template>
@@ -17,5 +19,12 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+  .parent-section {
+    padding-top: 100px;
+  }
+</style>
+
 
 

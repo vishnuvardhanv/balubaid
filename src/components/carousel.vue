@@ -1,7 +1,25 @@
 <template>
   <b-carousel >
-      <b-carousel-slide :img-src="slider1"> </b-carousel-slide>
-      <b-carousel-slide :img-src="slider2"></b-carousel-slide>
+      <b-carousel-slide>
+        <img
+          slot="img"
+          class="d-block img-fluid w-100"
+          width="1024"
+          height="480"
+          :src="slider1"
+          alt="image slot"
+        >
+      </b-carousel-slide>
+      <b-carousel-slide>
+        <img
+          slot="img"
+          class="d-block img-fluid w-100"
+          width="1024"
+          height="480"
+          :src="slider2"
+          alt="image slot"
+        >
+      </b-carousel-slide>
     </b-carousel>
 </template>
 
