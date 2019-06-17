@@ -17,12 +17,12 @@
           <li class="nav-item">
             <router-link class="nav-link" to="/about">About</router-link>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <router-link class="nav-link" to="/business-sector">Business Sectors</router-link>
           </li>
           <li class="nav-item">
             <router-link class="nav-link" to="/news-events">News & Events</router-link>
-          </li>
+          </li> -->
           <li class="nav-item">
             <router-link class="nav-link" to="/careers">Careers</router-link>
           </li>
