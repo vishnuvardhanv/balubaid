@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
     <div class="container">
       <router-link class="navbar-brand" to="/">
-        <b-img :src="logo" />
+        <b-img :src="logo" class="header-image"/>
       </router-link>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -40,10 +40,17 @@ export default {
   name: 'appHeader',
   data: function() {
     return {
-      logo: require('./../assets/images/balubaid-logo-web-2018-1.png')
+      logo: require('./../assets/images/PHOTO-2019-06-19-12-12-11.jpg')
     }
   }
 }
 </script>
+
+<style lang="scss">
+.header-image {
+  width: 290px;
+}
+</style>
+
 
 

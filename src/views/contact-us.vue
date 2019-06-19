@@ -2,6 +2,25 @@
   <div class="container">
             <b-form-group method="post">
                 <h2 class="pt-3 pb-3">Contact Us</h2>
+                <div class="row">
+                    <!-- Section Titile -->
+                    <div class="col-md-6 mt-3 contact-widget-section2 wow animated fadeInLeft" data-wow-delay=".2s">
+                        <h3 class="section-title">ARAN Group</h3>
+                        <p>Riyadh, Saudi Arabia</p>
+                        <div class="find-widget">
+                        Contact number:  <a href="#">+ 879-890-9767</a>
+                        </div>
+                        <div class="find-widget">
+                        For sales enquiries:  <a href="sales@aranholding.net">sales@aranholding.net</a>
+                        </div>
+                        <div class="find-widget">
+                        For marketing enquiries: <a href="marketing@aranholding.net">marketing@aranholding.net</a>
+                        </div>
+                        <div class="find-widget">
+                        For general enquiries:  <a href="info@aranholding.net">info@aranholding.net</a>
+                        </div>
+                    </div>
+              </div>
                <div class="row  pt-5 pb-5 mt-5 mb-5">
                     
                     <div class="col-md-6">

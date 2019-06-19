@@ -16,22 +16,22 @@ export default {
   data: function() {
     return {
       dataSet: [{
-        image: require('./../assets/images/automotive-home-image.jpg'),
+        image: require('./../assets/images/PHOTO-2019-06-15-23-50-05.jpg'),
         title: 'Automotive'
       }, {
-        image: require('./../assets/images/financial-services-home.jpg'),
+        image: require('./../assets/images/PHOTO-2019-06-15-23-50-06 2.jpg'),
         title: 'Financial Services'
       }, {
-        image: require('./../assets/images/real-estate-home.jpg'),
+        image: require('./../assets/images/PHOTO-2019-06-15-23-50-06.jpg'),
         title: 'Real Estate'
       }, {
-        image: require('./../assets/images/fun-land-slider.jpg'),
+        image: require('./../assets/images/PHOTO-2019-06-15-23-50-07 2.jpg'),
         title: 'Entertainment'
       }, {
-        image: require('./../assets/images/industrial-home.jpg'),
+        image: require('./../assets/images/PHOTO-2019-06-15-23-50-07.jpg'),
         title: 'Industrial'
       }, {
-        image: require('./../assets/images/affliates-home.jpg'),
+        image: require('./../assets/images/PHOTO-2019-06-15-23-50-08.jpg'),
         title: 'Affiliates'
       }]
     }
@@ -42,6 +42,10 @@ export default {
 <style lang="scss" scoped>
 .card-body {
   padding-left: 0;
+}
+.card-img-top {
+  width: 300px;
+  height: 200px;
 }
 </style>
 
