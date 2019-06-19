@@ -12,8 +12,8 @@
       <div class="col-md-6 mt-md-0 mt-3">
 
         <!-- Content -->
-        <h5 class="text-uppercase pt-2 pb-2">About Balubaid</h5>
-        <p class="text-muted">Balubaid has evolved into a multi-business enterprise with interests in automotive retail, automotive aftermarket, industrial and service equipment, transportation, real estate, financial services, manufacturing, and hospitality. The Group also serves as agent, distributor or dealer / franchisee of over 35 international brands across a variety of sectors from automotive to industrial equipment and hospitality.</p>
+        <h5 class="text-uppercase pt-2 pb-2">About ARAN</h5>
+        <p class="text-muted">Established in 1990 by <strong>Abdullah Al Shriyan</strong> in the name of <strong>“ARAN FOUNDRY & METAL COATING FACTORY”.</strong>  Later, in 1995 developed a machine shop in the name of <strong>“ARAN STEEL COUPLING FACTORY”.</strong></p>
 
       </div>
       <!-- Grid column -->
@@ -55,7 +55,7 @@
             <span class="text-muted"><strong>Telephone:</strong> <a class="text-muted" href="tel:+966126404444">+966 12 6404444</a></span>
           </li>
           <li class="pt-1 pb-1">
-            <span class="text-muted"><strong>E-mail:</strong> <a class="text-muted" href="mailto:info@balubaid.com">info@balubaid.com</a></span>
+            <span class="text-muted"><strong>E-mail:</strong> <a class="text-muted" href="mailto:hr@aranholding.net">hr@aranholding.net</a></span>
           </li>
         </ul>
 
