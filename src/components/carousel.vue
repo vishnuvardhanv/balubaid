@@ -1,18 +1,10 @@
 <template>
   <b-carousel >
-      <b-carousel-slide>
+      <b-carousel-slide v-for="(slider, index) of this.sliderSet" :key="index">
         <img
           slot="img"
           class="d-block img-fluid w-100"
-          :src="slider1"
-          alt="image slot"
-        >
-      </b-carousel-slide>
-      <b-carousel-slide>
-        <img
-          slot="img"
-          class="d-block img-fluid w-100"
-          :src="slider2"
+          :src="slider.image"
           alt="image slot"
         >
       </b-carousel-slide>
@@ -24,8 +16,21 @@ export default {
   name: 'carousel',
   data: function() {
     return {
-      slider1: require('./../assets/images/PHOTO-2019-06-15-23-50-06.jpg'),
-      slider2: require('./../assets/images/PHOTO-2019-06-15-23-50-08.jpg')
+      sliderSet: [{
+        image: require('./../assets/images/PHOTO-2019-06-28-13-27-10.jpg')
+      }, {
+        image: require('./../assets/images/PHOTO-2019-06-28-13-28-46.jpg')
+      }, {
+        image: require('./../assets/images/PHOTO-2019-06-28-13-28-56.jpg')
+      }, {
+        image: require('./../assets/images/PHOTO-2019-06-28-13-29-20.jpg')
+      }, {
+        image: require('./../assets/images/PHOTO-2019-06-28-13-30-06.jpg')
+      }, {
+        image: require('./../assets/images/PHOTO-2019-06-28-13-30-51.jpg')
+      }, {
+        image: require('./../assets/images/PHOTO-2019-06-28-13-31-07.jpg')
+      }]
     }
   }
 }

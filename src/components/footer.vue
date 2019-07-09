@@ -9,19 +9,17 @@
     <div class="row">
 
       <!-- Grid column -->
-      <div class="col-md-6 mt-md-0 mt-3">
-
-        <!-- Content -->
+      <!-- <div class="col-md-6 mt-md-0 mt-3">
         <h5 class="text-uppercase pt-2 pb-2">About ARAN</h5>
-        <p class="text-muted">Established in 1990 by <strong>Abdullah Al Shriyan</strong> in the name of <strong>“ARAN FOUNDRY & METAL COATING FACTORY”.</strong>  Later, in 1995 developed a machine shop in the name of <strong>“ARAN STEEL COUPLING FACTORY”.</strong></p>
+        <p class="text-muted">ARAN was established in 1990 constituting of two factories ARAN Steel Coupling Factory and ARAN Foundry & Metal Coating. Later the company entered into different segments including engineering, contracting, real estate, travel & tourism, and retail. The company is consolidating the companies under ARAN GROUP.</p>
 
-      </div>
+      </div> -->
       <!-- Grid column -->
 
       <hr class="clearfix w-100 d-md-none pb-3">
 
       <!-- Grid column -->
-      <div class="col-md-3 mb-md-0 mb-3">
+      <div class="col-md-6 mb-md-0 mb-3">
 
         <!-- Links -->
         <h5 class="text-uppercase pt-2 pb-2">Quick Links</h5>
@@ -45,7 +43,7 @@
       <!-- Grid column -->
 
       <!-- Grid column -->
-      <div class="col-md-3 mb-md-0 mb-3">
+      <div class="col-md-6 mb-md-0 mb-3">
 
         <!-- Links -->
         <h5 class="text-uppercase pt-2 pb-2">Contact</h5>
